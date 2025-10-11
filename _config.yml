@@ -1,3 +1,13 @@
 theme: jekyll-theme-minimal
 title: ninjapigeon's roost or home page
 description: Where everything starts.
+lsi: false
+safe: true
+source: ninjapigeon.github.io
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
